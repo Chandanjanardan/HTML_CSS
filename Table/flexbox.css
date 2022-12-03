@@ -1,0 +1,13 @@
+.parent{
+    display: flex;
+    justify-content: space-around ;
+    align-items: center;
+    /* background: red; */
+}
+.child1{
+    background: aqua;
+}
+.child2{
+    background: black;
+    color: white;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #4592af;
+    color: white;
+}
+h1{
+    text-align: center;
+    
+}
+img{
+    display: block;
+    margin: auto;
+    
+}
+.embed{
+    float: left;
+    margin: 20px;
+}
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 50px;
+    background-color: #364f6b;
+}
+h2{
+    color: #364f6b;
+}

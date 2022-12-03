@@ -1,0 +1,39 @@
+body{
+    background-color: #574b90;
+}
+h1{
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+img{
+    height: 300px;
+    width: 350px;
+}
+table,td{
+    margin:auto;
+    padding: 30px;
+}
+caption {
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+    
+    
+}
+td{
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+#change{
+    font-style: italic;
+    font-weight: bold;
+    word-spacing: 1px;
+}
+.c1:hover{
+    color: #fc85ae;
+    cursor: pointer;
+}

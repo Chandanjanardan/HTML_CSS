@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lists in HTML</title>
+</head>
+<body>
+    <ol start="10">  <!-- ordered list -   A/a/I/i   default - 1 -->
+        <li> E1 </li>
+        <li> E2 </li>
+        <li> E3 </li>
+        <li> E4 </li>
+    </ol>
+
+    <ul type="none">  <!-- unordered list  type - disc/square/circle/none -->
+        <li> S1 </li>
+        <li> S2 </li>
+        <li> S3 </li>
+    </ul>
+
+    <hr/>
+
+    <a href="mailto:sanpreet.india@gmail.com"> Mail Me </a>
+    <br/> <br/>
+    <form>
+        <table>
+            <caption> <marquee>  Please fill your details </marquee> </caption>
+            <tr> 
+                <td> 
+                    <label for="n1"> First Name :- </label> <input type="text" id="n1"/>
+                </td>
+            </tr>
+
